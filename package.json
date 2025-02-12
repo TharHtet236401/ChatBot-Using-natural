@@ -1,0 +1,22 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@huggingface/inference": "^3.3.3",
+    "compromise": "^14.14.4",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "natural": "^8.0.1",
+    "nodemon": "^3.1.9",
+    "openai": "^4.84.0"
+  }
+}

@@ -1,0 +1,77 @@
+[
+    {
+        "category": "company_info",
+        "question": "What is TechFlow Solutions?",
+        "answer": "TechFlow Solutions is a leading software development and digital transformation company founded in 2018. We specialize in creating innovative enterprise solutions."
+    },
+    {
+        "category": "company_info",
+        "question": "When was TechFlow Solutions founded?",
+        "answer": "TechFlow Solutions was founded in 2018."
+    },
+    {
+        "category": "services",
+        "question": "What services do you offer?",
+        "answer": "We offer Custom Software Development, Cloud Migration & Infrastructure, AI-Powered Business Analytics, Digital Transformation Consulting, and Enterprise Mobile Solutions."
+    },
+    {
+        "category": "services",
+        "question": "Do you provide cloud services?",
+        "answer": "Yes, we provide comprehensive Cloud Migration & Infrastructure services to help businesses modernize their technology stack."
+    },
+    {
+        "category": "contact",
+        "question": "How can I contact TechFlow Solutions?",
+        "answer": "You can reach us at contact@techflowsolutions.com or call us at +1 (555) 123-4567. Our office is located at 789 Innovation Drive, Suite 300, San Francisco, CA 94105."
+    },
+    {
+        "category": "contact",
+        "question": "What is your office address?",
+        "answer": "Our office is located at 789 Innovation Drive, Suite 300, San Francisco, CA 94105."
+    },
+    {
+        "category": "projects",
+        "question": "How long do projects typically take?",
+        "answer": "Project timelines vary based on scope and complexity. Most enterprise solutions take 3-6 months, while smaller projects can be completed in 4-8 weeks."
+    },
+    {
+        "category": "expertise",
+        "question": "What industries do you work with?",
+        "answer": "We work across various sectors including healthcare, finance, retail, and manufacturing, bringing best practices from different industries."
+    },
+    {
+        "category": "certifications",
+        "question": "What certifications does TechFlow have?",
+        "answer": "We are ISO 27001 Certified, a Microsoft Gold Partner, and an AWS Advanced Consulting Partner."
+    },
+    {
+        "category": "support",
+        "question": "Do you provide technical support?",
+        "answer": "Yes, we provide 24/7 technical support for all our solutions with a 98% client retention rate."
+    },
+    {
+        "category": "pricing",
+        "question": "How much do your services cost?",
+        "answer": "Our pricing varies based on project requirements. We offer customized solutions and flexible pricing models. Contact us for a detailed quote."
+    },
+    {
+        "category": "methodology",
+        "question": "What is your development methodology?",
+        "answer": "We follow an agile development methodology with regular sprints and client feedback to ensure optimal results and transparency."
+    },
+    {
+        "category": "team",
+        "question": "Tell me about your team",
+        "answer": "Our team consists of expert developers, designers, and consultants with extensive experience in enterprise software development and digital transformation."
+    },
+    {
+        "category": "security",
+        "question": "How do you handle data security?",
+        "answer": "We follow strict security protocols, are ISO 27001 certified, and implement industry-best practices for data protection and privacy."
+    },
+    {
+        "category": "success_stories",
+        "question": "What are your success stories?",
+        "answer": "We've successfully helped over 200 companies across 15 countries modernize their technology infrastructure, with a 98% client retention rate."
+    }
+]
