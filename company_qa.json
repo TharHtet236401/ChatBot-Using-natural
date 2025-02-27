@@ -1,5 +1,205 @@
 [
     {
+        "category": "company_overview",
+        "question": "What does your company do?",
+        "answer": "We are a leading AI solutions provider specializing in machine learning, natural language processing, and computer vision technologies. We help businesses implement AI-driven automation, analytics, and intelligent decision-making systems. Our solutions include custom AI development, pre-built AI models, and AI consulting services.",
+        "patterns": [
+            "Tell me about your company",
+            "What is your company's specialty?",
+            "What kind of company are you?",
+            "What are your main services?",
+            
+            "What do you guys do?",
+            "What's your business about?",
+            "Company description?",
+            "What's your expertise?",
+            
+            "company info",
+            "business type",
+            "company focus",
+            
+            "AI provider",
+            "technology company",
+            "AI solutions",
+            "tech services"
+        ]
+    },
+    {
+        "category": "ai_solutions",
+        "question": "What AI solutions do you offer?",
+        "answer": "Our AI solutions include: Natural Language Processing (chatbots, text analysis, sentiment analysis), Computer Vision (image recognition, object detection, video analytics), Machine Learning (predictive analytics, recommendation systems, anomaly detection), and Deep Learning applications. We provide both custom solutions and pre-trained models.",
+        "patterns": [
+            "What are your AI capabilities?",
+            "Tell me about your AI services",
+            "What AI technologies do you use?",
+            "AI product offerings?",
+            
+            "What can your AI do?",
+            "AI features?",
+            "Types of AI?",
+            "AI tools available?",
+            
+            "artificial intellignce",
+            "machine learing",
+            "AI technolgies",
+            
+            "AI systems",
+            "neural networks",
+            "deep learning",
+            "ML solutions"
+        ]
+    },
+    {
+        "category": "implementation_process",
+        "question": "How do you implement AI solutions?",
+        "answer": "Our AI implementation process includes: Initial assessment and data evaluation, solution design, model development and training, integration with existing systems, testing and validation, deployment, and ongoing monitoring. We ensure seamless integration while maintaining data security and system performance.",
+        "patterns": [
+            "How do you deploy AI systems?",
+            "What's your implementation approach?",
+            "AI integration process?",
+            "How do you set up AI?",
+            
+            "How long to implement?",
+            "Setup process?",
+            "Getting started with AI?",
+            "AI deployment steps?",
+            
+            "instalation process",
+            "deployment steps",
+            "setup procedure",
+            
+            "implementation methodology",
+            "AI deployment",
+            "system integration",
+            "solution rollout"
+        ]
+    },
+    {
+        "category": "use_cases",
+        "question": "What are common use cases for your AI solutions?",
+        "answer": "Our AI solutions are used for: Customer service automation (chatbots, voice assistants), Business analytics (predictive modeling, trend analysis), Process automation (document processing, workflow optimization), Security (fraud detection, threat analysis), and Quality control (visual inspection, defect detection).",
+        "patterns": [
+            "How are your AI solutions used?",
+            "What problems do you solve?",
+            "Applications of your AI?",
+            "Where is your AI used?",
+            
+            "What can I use AI for?",
+            "Real examples?",
+            "Success stories?",
+            "AI applications?",
+            
+            "use cases",
+            "applications",
+            "examples",
+            
+            "practical applications",
+            "solution scenarios",
+            "implementation examples",
+            "business cases"
+        ]
+    },
+    {
+        "category": "ai_consulting",
+        "question": "What AI consulting services do you provide?",
+        "answer": "Our AI consulting services include: AI readiness assessment, strategy development, technology selection, proof of concept development, data strategy planning, AI governance framework setup, and team training. We help organizations identify and implement the most effective AI solutions for their needs.",
+        "patterns": [
+            "Do you offer AI consulting?",
+            "AI advisory services?",
+            "Can you help plan AI implementation?",
+            "AI strategy consulting?",
+            
+            "Need AI advice",
+            "Help with AI planning",
+            "AI guidance needed",
+            "Strategic AI help",
+            
+            "consulting services",
+            "advisory help",
+            "strategic planning",
+            
+            "AI roadmap",
+            "technology consulting",
+            "digital transformation",
+            "AI strategy"
+        ]
+    },
+    {
+        "category": "data_requirements",
+        "question": "What are the data requirements for AI implementation?",
+        "answer": "AI implementation typically requires: Quality training data, proper data formatting and labeling, adequate data volume, relevant historical data, and ongoing data collection capabilities. We help assess data readiness, implement data collection strategies, and ensure data quality for optimal AI performance.",
+        "patterns": [
+            "What data do you need?",
+            "Data prerequisites?",
+            "Training data requirements?",
+            "Data preparation needs?",
+            
+            "How much data needed?",
+            "Data for AI?",
+            "Data collection?",
+            "What data to prepare?",
+            
+            "data needs",
+            "data specs",
+            "data volumes",
+            
+            "data infrastructure",
+            "data preparation",
+            "data requirements",
+            "training data"
+        ]
+    },
+    {
+        "category": "pricing_model",
+        "question": "How do you price AI solutions?",
+        "answer": "Our AI pricing is based on several factors: Solution complexity, data volume, processing requirements, integration needs, and deployment scope. We offer flexible pricing models including subscription-based, usage-based, and project-based pricing. Custom solutions are priced based on specific requirements and scope.",
+        "patterns": [
+            "What's the cost of AI implementation?",
+            "AI solution pricing?",
+            "How much do AI services cost?",
+            "Price for AI development?",
+            
+            "AI costs?",
+            "Pricing plans?",
+            "Service rates?",
+            "Implementation cost?",
+            
+            "solution cost",
+            "price points",
+            "service fees",
+            
+            "cost structure",
+            "pricing models",
+            "payment plans",
+            "cost estimation"
+        ]
+    },
+    {
+        "category": "maintenance_support",
+        "question": "How do you handle AI system maintenance?",
+        "answer": "We provide comprehensive AI maintenance including: Model performance monitoring, regular retraining and updates, system optimization, bug fixes, and technical support. Our support team offers 24/7 monitoring, periodic performance reviews, and continuous improvement recommendations.",
+        "patterns": [
+            "How do you maintain AI systems?",
+            "AI support services?",
+            "System maintenance?",
+            "Ongoing AI support?",
+            
+            "AI updates?",
+            "System upkeep?",
+            "Maintenance plans?",
+            "Support options?",
+            
+            "maintainance",
+            "system support",
+            "upkeep",
+            
+            "model maintenance",
+            "system updates",
+            "performance monitoring",
+            "technical support"
+        ]
+    },
+    {
         "category": "company_info",
         "question": "What are your company's working hours?",
         "answer": "Our standard business hours are Monday through Friday, 9:00 AM to 5:00 PM local time. However, some departments may have flexible working hours or different shifts to accommodate global operations and customer service needs.",
@@ -664,6 +864,131 @@
             "system upkeep",
             "ongoing support",
             "routine maintenance"
+        ]
+    },
+    {
+        "category": "contact_general",
+        "question": "How can I contact your AI company?",
+        "answer": "You can reach our AI solutions team through multiple channels: Phone: 1-800-AI-HELP (24/7 technical support), Email: support@aicompany.com, Website: www.aicompany.com/contact. For enterprise inquiries, contact our sales team at 1-888-AI-SALES or enterprise@aicompany.com.",
+        "patterns": [
+            "What are your contact details?",
+            "How do I reach you?",
+            "Contact information please",
+            "Ways to contact you?",
+            
+            "How to get in touch?",
+            "Need your contact info",
+            "Contact details?",
+            "Where can I reach you?",
+            
+            "contact info",
+            "contact detals",
+            "reachability",
+            
+            "contact methods",
+            "communication channels",
+            "contact options",
+            "get in touch"
+        ]
+    },
+    {
+        "category": "phone_support",
+        "question": "What are your support phone numbers?",
+        "answer": "Our AI support phone numbers: Technical Support: 1-800-AI-HELP (24/7), Sales Team: 1-888-AI-SALES (Mon-Fri, 9AM-6PM EST), Enterprise Support: 1-877-AI-ENTERPRISE (24/7), International: +1-555-AI-GLOBAL. Each line has AI-assisted routing for faster response.",
+        "patterns": [
+            "What's your support number?",
+            "Phone number for AI help?",
+            "Technical support phone?",
+            "How can I call support?",
+            
+            "Need phone support",
+            "Support line number?",
+            "Emergency contact number?",
+            "Helpdesk phone?",
+            
+            "phone numbr",
+            "support line",
+            "contact no",
+            
+            "support hotline",
+            "help center number",
+            "technical assistance",
+            "phone contact"
+        ]
+    },
+    {
+        "category": "email_contacts",
+        "question": "What are your email addresses?",
+        "answer": "Our email contacts: AI Support: support@aicompany.com, Sales: sales@aicompany.com, Enterprise Solutions: enterprise@aicompany.com, Training: training@aicompany.com, Partner Program: partners@aicompany.com. All emails are monitored by our AI system for quick routing and response.",
+        "patterns": [
+            "What's your email address?",
+            "Email for support?",
+            "Sales team email?",
+            "Where to email questions?",
+            
+            "Need support email",
+            "Email contact info?",
+            "How to email you?",
+            "Contact email?",
+            
+            "email adress",
+            "support mail",
+            "contact email",
+            
+            "electronic mail",
+            "email support",
+            "mail contact",
+            "business email"
+        ]
+    },
+    {
+        "category": "online_presence",
+        "question": "Where can I find you online?",
+        "answer": "Our online presence includes: Main website: www.aicompany.com, Support portal: support.aicompany.com, Developer docs: dev.aicompany.com, Training platform: learn.aicompany.com. We're also active on LinkedIn (/aicompany), Twitter (@AICompany), and GitHub (/aicompany).",
+        "patterns": [
+            "What's your website?",
+            "Online support portal?",
+            "Developer documentation?",
+            "Where's your documentation?",
+            
+            "Website address?",
+            "Support site?",
+            "Online resources?",
+            "Web portal?",
+            
+            "web address",
+            "online help",
+            "documentation",
+            
+            "digital presence",
+            "online platform",
+            "web resources",
+            "support portal"
+        ]
+    },
+    {
+        "category": "emergency_support",
+        "question": "How do I get emergency support?",
+        "answer": "For emergency AI system support: Call our 24/7 emergency line at 1-800-AI-URGENT, Email urgent@aicompany.com with 'URGENT' in subject, or use the red 'Emergency Support' button in our client portal. Premium and Enterprise clients have dedicated emergency response teams.",
+        "patterns": [
+            "Need urgent help",
+            "Emergency contact?",
+            "Immediate support needed",
+            "Critical issue help",
+            
+            "System down help",
+            "Urgent assistance",
+            "Emergency number?",
+            "Crisis support?",
+            
+            "urgent help",
+            "emergency contact",
+            "critical support",
+            
+            "immediate assistance",
+            "urgent support",
+            "emergency line",
+            "crisis help"
         ]
     }
 ]
